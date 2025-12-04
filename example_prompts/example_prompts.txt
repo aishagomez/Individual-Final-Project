@@ -1,0 +1,35 @@
+[DAILY] Actualizar agenda diaria
+Prompt: Trabajo de lunes a viernes de 7:00 AM a 11:00 AM, actualiza mi agenda diaria.
+
+[DAILY] Añadir bloques de tiempo
+Prompt: Actualiza mi agenda diaria, añade 1 hora para el almuerzo y 2 horas para hacer ejercicio.
+
+[DAILY] Agenda con horario fijo
+Prompt: Tengo que asistir al trabajo exclusivamente de lunes a viernes de 7:00 AM a 11:00 AM, actualiza mi agenda diaria.
+
+[DAILY] Organizar tareas de hoy
+Prompt: Hoy necesito completar tres tareas importantes: enviar informes, revisar correos y asistir a una reunión a las 3 PM.
+
+[DAILY] Planificar actividades personales
+Prompt: Quiero dedicar tiempo a meditación y lectura, añade estas actividades a mi agenda diaria.
+
+[FINANCE] Organizar presupuesto mensual
+Prompt: Mi ingreso mensual es de 2000 dólares y quiero ahorrar 300 al mes, organiza mi presupuesto.
+
+[FINANCE] Control de gastos variables
+Prompt: Mis gastos fijos son 500 de alquiler y 200 de servicios. Distribuye mi presupuesto mensual incluyendo ahorro.
+
+[FINANCE] Plan de ahorro
+Prompt: Quiero ahorrar para un viaje de 3 meses, sugiereme cuánto ahorrar semanalmente y cómo organizar mis gastos.
+
+[ACADEMIC] Plan de estudio para examen
+Prompt: Tengo examen de programación el viernes, genera un plan de estudio.
+
+[ACADEMIC] Preparación de proyecto
+Prompt: Necesito preparar un proyecto de investigación de una semana, sugiere un plan de trabajo diario.
+
+[ACADEMIC] Estrategias de repaso
+Prompt: Quiero repasar matemáticas y física antes del examen final, crea un calendario de estudio con horas asignadas.
+
+[ACADEMIC] Recordatorios de tareas
+Prompt: Genera recordatorios para entregar mis tareas de programación y laboratorio antes del viernes.
