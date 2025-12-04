@@ -2,22 +2,6 @@
 
 A modular AI-powered assistant for personal productivity, academic planning, and financial management. Built using LLM-based multi-agent coordination and LangGraph for workflow orchestration.
 
-## Project Structure
-
-project/
-│── main.py                  # Entry point
-│── prompts/
-│    ├── planning_prompts.py # Prompts for daily, academic, and finance planning
-│    ├── routing_prompt.py   # Prompt to classify user queries
-│── tools/
-│    ├── time_calculator.py  # Helper to calculate time blocks
-│    ├── finance_calc.py     # Helper to compute 50/30/20 budget
-│    ├── utils.py            # Pretty-printing results
-│── graph/
-│    ├── graph_builder.py    # LangGraph workflow definitions
-│── memory/
-│    ├── vector_memory.py    # Persistent vector memory for context
-
 ## Features
 
 - Daily Planner: Organizes tasks, priorities, recommendations, and calculates time blocks.
