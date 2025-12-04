@@ -6,7 +6,7 @@ A modular AI-powered assistant for personal productivity, academic planning, and
 
 - Daily Planner: Organizes tasks, priorities, recommendations, and calculates time blocks.
 - Academic Planner: Generates study plans, suggested hours, strategies, and reminders.
-- Finance Planner: Provides a detailed financial overview, suggested savings, and budget allocation using the 50/30/20 rule.
+- Finance Planner: Provides a detailed financial overview and suggested savings.
 - Memory Integration: Stores and retrieves user queries for context-aware planning.
 - Workflow Routing: Automatically routes user requests to the appropriate agent (daily, academic, finance) using LangGraph.
 
