@@ -36,7 +36,7 @@ pip install -r requirements.txt
 Run the main application:
 
 ```
-
+cd personal_planner
 python main.py
 
 ```
@@ -63,7 +63,7 @@ Type `exit`, `quit`, or `salir` to end the session.
 
 ```
 
-\=== AGENDA DIARIA ===
+=== AGENDA DIARIA ===
 
   * Trabajo: 4h (09:00-13:00)
       Descripción: Terminar reporte
@@ -78,7 +78,6 @@ Type `exit`, `quit`, or `salir` to end the session.
   * estudio: 3 horas
   * ejercicio: 5 horas
 
-<!-- end list -->
 
 ```
 
@@ -86,7 +85,7 @@ Type `exit`, `quit`, or `salir` to end the session.
 
 ```
 
-\=== PLAN DE ESTUDIO ===
+=== PLAN DE ESTUDIO ===
 
   * Repaso general hoy
   * Ejercicios mañana
@@ -97,7 +96,6 @@ Type `exit`, `quit`, or `salir` to end the session.
       === Recordatorios ===
   * Revisar notas antes de dormir
 
-<!-- end list -->
 
 ```
 
