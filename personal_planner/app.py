@@ -22,7 +22,7 @@ st.markdown(
 
 @st.cache_resource
 def initialize_system():
-    llm = ChatOllama(model="gemma3:1b", temperature=0)
+    llm = ChatOllama(model="llama3.1", temperature=0)
     memory = create_vector_memory()
 
     daily_chain = build_chain(daily_planner_prompt, llm)
@@ -73,3 +73,4 @@ if st.button("Submit"):
         except Exception as e:
             st.error(f"An error occurred: {e}")
             st.info("Ensure the LLM is running and producing valid JSON outputs.")
+
