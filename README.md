@@ -104,28 +104,29 @@ Type `exit`, `quit`, or `salir` to end the session.
 **Finance Planner**:
 
 ```
+=== PLAN FINANCIERO ===
 
-\=== PLAN FINANCIERO ===
-Resumen (Detalle): {
-"inicio\_trabajo": "lunes a viernes de 7:00 AM a 11:00 AM",
-"gastos\_fijos": [
-{"nombre": "Alquiler", "monto": 500},
-{"nombre": "Servicios públicos", "monto": 150},
-{"nombre": "Comida", "monto": 300}
-],
-"ingresos": {"salario": 2000},
-"gastos\_variables": [
-{"nombre": "Transporte", "monto": 100},
-{"nombre": "Entretenimiento", "monto": 200}
-]
-}
+Resumen (Detalle):
+
+Inicio de trabajo: lunes a viernes de 7:00 AM a 11:00 AM
+
+Gastos fijos:
+- Alquiler: 500
+- Servicios públicos: 150
+- Comida: 300
+
+Ingresos:
+- Salario: 2000
+
+Gastos variables:
+- Transporte: 100
+- Entretenimiento: 200
+
 Ahorro sugerido: 300
+
 Distribución 50/30/20:
-
-  * needs: 1000
-  * wants: 600
-  * savings: 400
-
-<!-- end list -->
+- Needs: 1000
+- Wants: 600
+- Savings: 400
 
 ```
